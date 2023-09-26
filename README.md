@@ -1,5 +1,6 @@
 # Removes Letters
 - Application for removing type of letters in text
+- THE APP IS IN FRENCH VERSION (an update will be added to change it in EN)
 - COMPILE THE APP WITH QTCREATOR TO USE IT
 
 ## Features
