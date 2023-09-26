@@ -1,1 +1,18 @@
-# RemovesLetters
+# Removes Letters
+- Application for removing type of letters in text
+- COMPILE THE APP WITH QTCREATOR TO USE IT
+
+## Features
+
+- Can remove vowels
+- (Future feature) Can remove consonants
+
+
+## Badges
+
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+
+
+## Authors
+
+- [@TTVNaylek](https://github.com/TTVNaylek)
