@@ -8,6 +8,8 @@
 - Can remove vowels
 - (Future feature) Can remove consonants
 
+##ATTENTION
+- This app was made without the designer!
 
 ## Badges
 
